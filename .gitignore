@@ -1,0 +1,8 @@
+# Node.js 專案常見忽略項目
+node_modules/
+.env
+dist/
+*.log
+
+# macOS 特有檔案
+.DS_Store
